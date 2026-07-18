@@ -24,7 +24,7 @@
                 "11-Jan-2026"
             ]
         },
-        "LONG": {
+        "LAX": {
             "repair_count": 27,
             "revenue": 12179.88,
             "transport": 0.0,
@@ -35,7 +35,7 @@
                 "11-Jan-2026"
             ]
         },
-        "LOUISVILL": {
+        "SDF": {
             "repair_count": 116,
             "revenue": 52273.08,
             "transport": 0.0,
