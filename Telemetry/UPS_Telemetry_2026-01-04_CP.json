@@ -1,0 +1,39 @@
+{
+    "CONTAINERS": {
+        "LOUISVILL": {
+            "repair_count": 20,
+            "revenue": 9012.6,
+            "transport": 0.0,
+            "invoice_numbers": [
+                "50118-2026"
+            ],
+            "invoice_dates": [
+                "4-Jan-2026"
+            ]
+        },
+        "LONG": {
+            "repair_count": 5,
+            "revenue": 2253.15,
+            "transport": 0.0,
+            "invoice_numbers": [
+                "50118-2026"
+            ],
+            "invoice_dates": [
+                "4-Jan-2026"
+            ]
+        }
+    },
+    "PALLETS": {
+        "MIA": {
+            "repair_count": 36,
+            "revenue": 5098.68,
+            "transport": 324.0,
+            "invoice_numbers": [
+                "50119-2026"
+            ],
+            "invoice_dates": [
+                "4-Jan-2026"
+            ]
+        }
+    }
+}
