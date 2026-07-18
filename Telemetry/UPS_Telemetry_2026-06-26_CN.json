@@ -2,7 +2,7 @@
     "CONTAINERS": {
         "MIA": {
             "repair_count": 4,
-            "revenue": 1896.36,
+            "revenue": 1996.36,
             "transport": 551.68,
             "invoice_numbers": [
                 "50711-2026"
@@ -13,7 +13,7 @@
         },
         "LAX": {
             "repair_count": 21,
-            "revenue": 9806.96,
+            "revenue": 9906.96,
             "transport": 689.6,
             "invoice_numbers": [
                 "50711-2026"
@@ -24,7 +24,7 @@
         },
         "SDF": {
             "repair_count": 8,
-            "revenue": 3424.05,
+            "revenue": 3524.05,
             "transport": 0.0,
             "invoice_numbers": [
                 "50711-2026"
