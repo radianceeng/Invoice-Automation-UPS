@@ -1,0 +1,26 @@
+{
+    "CONTAINERS": {
+        "SDF": {
+            "repair_count": 8,
+            "revenue": 3039.47,
+            "transport": 0.0,
+            "invoice_numbers": [
+                "50563-2026"
+            ],
+            "invoice_dates": [
+                "18-May-2026"
+            ]
+        },
+        "MIA": {
+            "repair_count": 5,
+            "revenue": 2135.61,
+            "transport": 689.6,
+            "invoice_numbers": [
+                "50563-2026"
+            ],
+            "invoice_dates": [
+                "18-May-2026"
+            ]
+        }
+    }
+}

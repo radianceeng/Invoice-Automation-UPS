@@ -1,0 +1,15 @@
+{
+    "NETS": {
+        "LAX": {
+            "repair_count": 88,
+            "revenue": 7061.88,
+            "transport": 176.0,
+            "invoice_numbers": [
+                "50386-2026"
+            ],
+            "invoice_dates": [
+                "22-Mar-2026"
+            ]
+        }
+    }
+}

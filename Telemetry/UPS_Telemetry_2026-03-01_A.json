@@ -1,0 +1,15 @@
+{
+    "ADA": {
+        "LAX": {
+            "repair_count": 6,
+            "revenue": 900.0,
+            "transport": 401.70,
+            "invoice_numbers": [
+                "50290-2026"
+            ],
+            "invoice_dates": [
+                "1-Mar-2026"
+            ]
+        }
+    }
+}

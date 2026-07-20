@@ -1,0 +1,39 @@
+{
+    "PALLETS": {
+        "SDF": {
+            "repair_count": 12,
+            "revenue": 1591.32,
+            "transport": 0.0,
+            "invoice_numbers": [
+                "50537-2026"
+            ],
+            "invoice_dates": [
+                "13-May-2026"
+            ]
+        }
+    },
+    "CONTAINERS": {
+        "SDF": {
+            "repair_count": 4,
+            "revenue": 1501.18,
+            "transport": 0.0,
+            "invoice_numbers": [
+                "50541-2026"
+            ],
+            "invoice_dates": [
+                "13-May-2026"
+            ]
+        },
+        "LAX": {
+            "repair_count": 13,
+            "revenue": 5174.55,
+            "transport": 827.52,
+            "invoice_numbers": [
+                "50541-2026"
+            ],
+            "invoice_dates": [
+                "13-May-2026"
+            ]
+        }
+    }
+}
