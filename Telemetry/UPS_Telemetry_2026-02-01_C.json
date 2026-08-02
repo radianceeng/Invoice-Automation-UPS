@@ -1,0 +1,27 @@
+{
+    "CONTAINERS": {
+        "LAX": {
+            "repair_count": 12,
+            "revenue": 4109.72,
+            "transport": 1655.04,
+            "invoice_numbers": [
+                "50195-2026"
+            ],
+            "invoice_dates": [
+                "1-Feb-2026"
+            ]
+        },
+        "MIA": {
+            "repair_count": 13,
+            "revenue": 4908.76,
+            "transport": 1792.96,
+            "invoice_numbers": [
+                "50195-2026",
+                "50201-2026"
+            ],
+            "invoice_dates": [
+                "1-Feb-2026"
+            ]
+        }
+    }
+}

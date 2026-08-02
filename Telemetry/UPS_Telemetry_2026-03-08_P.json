@@ -1,0 +1,15 @@
+{
+    "PALLETS": {
+        "MIA": {
+            "repair_count": 23,
+            "revenue": 3257.49,
+            "transport": 207.0,
+            "invoice_numbers": [
+                "50321-2026"
+            ],
+            "invoice_dates": [
+                "8-Mar-2026"
+            ]
+        }
+    }
+}

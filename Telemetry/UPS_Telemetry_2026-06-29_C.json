@@ -1,0 +1,26 @@
+{
+    "CONTAINERS": {
+        "SDF": {
+            "repair_count": 8,
+            "revenue": 3418.74,
+            "transport": 0.0,
+            "invoice_numbers": [
+                "50721-2026"
+            ],
+            "invoice_dates": [
+                "29-Jun-2026"
+            ]
+        },
+        "LAX": {
+            "repair_count": 3,
+            "revenue": 1435.4,
+            "transport": 0.0,
+            "invoice_numbers": [
+                "50721-2026"
+            ],
+            "invoice_dates": [
+                "29-Jun-2026"
+            ]
+        }
+    }
+}

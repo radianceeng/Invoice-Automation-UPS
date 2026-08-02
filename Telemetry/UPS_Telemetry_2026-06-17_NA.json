@@ -1,0 +1,28 @@
+{
+    "NETS": {
+        "LAX": {
+            "repair_count": 63,
+            "revenue": 5187.89,
+            "transport": 126.0,
+            "invoice_numbers": [
+                "50677-2026"
+            ],
+            "invoice_dates": [
+                "17-Jun-2026"
+            ]
+        }
+    },
+    "ADA": {
+        "SDF": {
+            "repair_count": 11,
+            "revenue": 1699.5,
+            "transport": 0.0,
+            "invoice_numbers": [
+                "50678-2026"
+            ],
+            "invoice_dates": [
+                "17-Jun-2026"
+            ]
+        }
+    }
+}
