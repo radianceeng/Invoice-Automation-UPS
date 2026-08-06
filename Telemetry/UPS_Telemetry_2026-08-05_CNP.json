@@ -1,0 +1,63 @@
+{
+    "CONTAINERS": {
+        "SDF": {
+            "repair_count": 24,
+            "revenue": 10407.4,
+            "transport": 0.0,
+            "invoice_numbers": [
+                "50849-2026"
+            ],
+            "invoice_dates": [
+                "5-Aug-2026"
+            ]
+        },
+        "LAX": {
+            "repair_count": 22,
+            "revenue": 10193.14,
+            "transport": 1379.2,
+            "invoice_numbers": [
+                "50849-2026"
+            ],
+            "invoice_dates": [
+                "5-Aug-2026"
+            ]
+        },
+        "MIA": {
+            "repair_count": 8,
+            "revenue": 3851.08,
+            "transport": 1103.36,
+            "invoice_numbers": [
+                "50849-2026"
+            ],
+            "invoice_dates": [
+                "5-Aug-2026"
+            ]
+        }
+    },
+    "PALLETS": {
+        "MIA": {
+            "repair_count": 20,
+            "revenue": 2917.4,
+            "transport": 180.0,
+            "invoice_numbers": [
+                "50852-2026"
+            ],
+            "invoice_dates": [
+                "5-Aug-2026"
+            ]
+        }
+    },
+    "NETS": {
+        "LAX": {
+            "repair_count": 60,
+            "revenue": 4786.6,
+            "transport": 120.0,
+            "invoice_numbers": [
+                "50851-2025"
+            ],
+            "invoice_dates": [
+                "5-Aug-2026"
+            ]
+        }
+    }
+}
